@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy – Panda App</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #222;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Panda App</h1>
+
+  <p><strong>Panda</strong> is an internal application used exclusively by authorized personnel within our organization. The app is designed for internal management of spare parts for high-energy and laser control systems.</p>
+
+  <h2>Data Access</h2>
+  <ul>
+    <li>Users log in via Microsoft Azure Active Directory (AAD).</li>
+    <li>The application accesses the user's domain account for authentication purposes only.</li>
+    <li>No personal or sensitive user data is collected, stored, or shared with third parties.</li>
+  </ul>
+
+  <h2>Usage Scope</h2>
+  <p>This application is not intended for public use. It is distributed solely for internal purposes within a controlled environment and does not offer functionality outside of the organization.</p>
+
+  <h2>Data Storage</h2>
+  <p>All data processed by the application remains within the internal infrastructure of our institution and is not transferred externally.</p>
+
+  <h2>Contact</h2>
+  <p>For any questions, please contact the system administrator or your internal IT department.</p>
+</body>
+</html>
